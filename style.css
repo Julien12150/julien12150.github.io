@@ -1,0 +1,46 @@
+body
+{
+	font-family: Arial;
+	color: #dbdbdb;
+	background-color: #2a2a33;
+}
+
+a:link
+{
+	color:#6ba6ff;
+}
+a:visited
+{
+	color:#b9cdff;
+}
+a:active
+{
+	color:#2a589e;
+}
+a:hover
+{
+	color:white;
+}
+div.main
+{
+	display: block;
+	border-style: solid;
+	border-color: #7cb2d5;
+	border-width: 5px;
+	border-radius: 10px;
+	background-color: #1c2a39;
+
+	width:1000px;
+	margin: auto;
+
+	padding-left: 15px;
+	padding-right: 15px;
+}
+h1
+{
+	text-align: center;
+}
+h2.top
+{
+	text-align: center;
+}
